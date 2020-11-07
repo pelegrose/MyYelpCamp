@@ -1,5 +1,5 @@
 # MyYelpCamp
- A simple website that is used to rate campsite.
+ A simple website that is used to rate campsites.
  
 ## Usage
  Download the repo and npm install the dependencies. Register in the website and that will allow you 
